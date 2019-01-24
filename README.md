@@ -5,9 +5,8 @@ YouTube is definitely not at its prime now as it once used to be. Videos can fai
 
 ## What it does
 
-Our project is a chrome extension that is integrated with a python backend which runs scripts for detecting emotions. The extension allows the users to record their face and their reactions while watching a YouTube video. The backend then splits the video into various frames and performs the machine learning scripts on them to find the dominant emotion in each frame. This information is then collated in the form of graphs in a user-friendly dashboard for the YouTube creators to analyze. This allows them to know exactly what parts of their video induced what emotion.
-![chromeExtension](https://user-images.githubusercontent.com/17317792/51650984-3b92b700-1fc5-11e9-8a9e-199d9a213429.png)
-![contentCreatorDashboard](https://user-images.githubusercontent.com/17317792/51651011-57965880-1fc5-11e9-810f-53a035f27ec2.png)
+Our project is a chrome extension that is integrated with a python backend which runs scripts for detecting emotions. The extension allows the users to record their face and their reactions while watching a YouTube video. The backend then splits the video into various frames and performs the machine learning scripts on them to find the dominant emotion in each frame. This information is then collated in the form of graphs in a user-friendly dashboard for the YouTube creators to analyze. This allows ![chromeExtension](https://user-images.githubusercontent.com/17317792/51651212-0b97e380-1fc6-11e9-9efc-f5b725724fd4.jpg)
+![contentCreatorDashboard](https://user-images.githubusercontent.com/17317792/51651214-0dfa3d80-1fc6-11e9-9883-7b62c0f754bb.jpg)
 
 
 ## How we built it
