@@ -12,13 +12,13 @@ Our project is a chrome extension that is integrated with a python backend which
 
 ## How we built it
 
-###Chrome Extension:
+### Chrome Extension:
 
 1. Chrome Developer Dashboard was used to publicly list the extension on the Chrome Web Store.
 2. Various Chrome APIs were called such as ActiveTab and VideoCapture to give the extension the required features.
 3. ES6, JavaScript and JQuery was used to manipulate the DOM structure of the extension popup. 
 
-###Front-end:
+### Front-end:
 
 1. The front end is built using React and Material UI. 
 2. Axios is used to listen for video searches and query the MongoDB database hosted on MLab.
